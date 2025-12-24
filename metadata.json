@@ -1,0 +1,8 @@
+{
+  "name": "Smart Bus Operations Platform",
+  "description": "An integrated intelligent management system for bus transit operations, featuring real-time monitoring, asset lifecycle tracking, AI-powered maintenance scheduling, and financial cost accounting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
